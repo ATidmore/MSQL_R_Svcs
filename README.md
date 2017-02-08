@@ -6,9 +6,7 @@ View this page from [Microsoft](https://msdn.microsoft.com/en-us/library/mt69606
 
 Data was taken from an abbreviated set of Loan data from Lending Club. 
 
-## Getting Started
-1. Download SQL Server 2016 and enable R Services specified in article above
-2. ???
-3. Profit
+NOTE:
+I unfortunately deleted the first SQL file (and the most important) because I am not good at Git. Once I recover the file I will post an update. Sorry about the inconvenience.
 
 AT
